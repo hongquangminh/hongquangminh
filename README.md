@@ -4,9 +4,9 @@
 **hongquangminh/hongquangminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at Genetica®
-- 🤔 I’m a **Odoo Functional Consultant**
-- 💬 Blogger at [MinhHong.Info](https://minhhong.info/)
+- 🔭 I’m currently working at Onnet Consulting
+- 🤔 I’m a **Project Manager**
+- 💬 Check my [LinkedIn](https://www.linkedin.com/in/hongquangminh/)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ex.king09/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongquangminh/) 
