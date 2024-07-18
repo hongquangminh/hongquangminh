@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hi there 👋</h2>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hongquangminh&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongquangminh/) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minh.hquang09@gmail.com)
 
 <!--
 **hongquangminh/hongquangminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at Onnet Consulting
-- 🤔 I’m a **Project Manager**
-- 💬 Check my [LinkedIn](https://www.linkedin.com/in/hongquangminh/)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ex.king09/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongquangminh/) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minh.hquang09@gmail.com)
+class ProjectManager:
+
+   def __init__(self):
+      self.name = "Minh Hong"
+      self.role = "Project Manager"
+      self.company = "Onnet Consulting"
+      self.language_spoken = ["vi_VN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ProjectManager()
+me.say_hi()
+```
 
 <p align="center">
    <table>
